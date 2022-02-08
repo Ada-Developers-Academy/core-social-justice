@@ -1,0 +1,13 @@
+---
+Standards:
+  -
+    Title: Orientation
+    Description: Community Agreements
+    UID: 5b7df88c-a4da-4ba2-a0d4-c982abd01c7d
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 9dd20e62-15a3-4e73-a347-9e2abd4b791c
+        Path: /orientation/community-agreements.md
