@@ -18,13 +18,13 @@ Please note that this is a living document. We welcome continual input from this
 
 **Transparency** – both implicit/explicit 
 
-**Make no assumptions and ask questions 
+**Make no assumptions and ask questions** 
 
 **Treat each other - and ourselves- with kindness** – understand and reconcile missteps with compassion
 
-**Foster clear and open communication between participants 
+**Foster clear and open communication between participants** 
 
-**Acknowledge and validate the lived experience of marginalized folks 
+**Acknowledge and validate the lived experience of marginalized folks** 
 
 **Assume positive intent** – acknowledge and address impact on community
 
