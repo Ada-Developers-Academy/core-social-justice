@@ -30,7 +30,7 @@ Please note that this is a living document. We welcome continual input from this
 
 **Experience discomfort** – not every conversation will be easy; healthy conflict leads to growth
 
-C**ommit to doing our best work together to achieve our goals** – compromise will be needed
+**Commit to doing our best work together to achieve our goals** – compromise will be needed
 
 **Be aware of your personal power and privilege** – remember how these show up and have the ability to influence decisions that impact others; acknowledge space that you take up
 
