@@ -11,3 +11,7 @@ Standards:
         Type: Lesson
         UID: 9dd20e62-15a3-4e73-a347-9e2abd4b791c
         Path: /orientation/community-agreements.md
+      -
+        Type: Lesson
+        UID: 15030d30-a6fc-11ec-b909-0242ac120002
+        Path: /orientation/allyship.md
