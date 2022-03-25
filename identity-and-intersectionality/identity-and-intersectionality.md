@@ -19,7 +19,7 @@
     - Visible and invisible
         - Identity is like an iceberg: understanding someone's identity is sometimes limited by what we see on the surface
 
-![Image of an Iceberger. Blue image highlighting different social identity characteritics in three areas: Above the Water, Right at the Water, and Below the Water.(image.jpg)
+    ![Image of an Iceberger. Blue image highlighting different social identity characteritics in three areas: Above the Water, Right at the Water, and Below the Water.](Untitled.png)
 
       - Above the Water: Things that are visible and we can make limited judgments about a person
       - Right at the Water: Might see something that indicates characteristics, but we lack certainty and should caution ourselves on judgments
@@ -46,12 +46,12 @@
 
 ## Intersectionality
   - Overview
-    - Intersectionality 101 (2:49 mins) 
+    - [Intersectionality 101](https://www.youtube.com/watch?v=O1islM0ytkE&t=1s) (2:49 mins) 
       - All aspects of our identities – whether those aspects are oppressed or privileged by society – interact with one another
     - The purpose of naming and reflecting on identity is not to seperate them out from each other so much as to consider the ways in which our identities impact each other
     - “So long as we are divided because of our particular identities we cannot join together in effective political action.” -Audre Lorde
       - It’s important that we see our shared humanity through our many identities. Question: Why do you think Audre Lorde felt this important to establishing effective change?
-    - “Why does it have to be you as a woman? Why not you as a human being?’ This type of question is a way of silencing a person's specific experiences. Of course, I am a human being, but there are particular things that happen to me in the world because I am a woman.” - Chimamanda Ngozi Adichie​
+    - “Why does it have to be you as a woman? Why not you as a human being?’ This type of question is a way of silencing a person's specific experiences. Of course, I am a human being, but there are particular things that happen to me in the world because I am a woman.” - Chimamanda Ngozi Adichie
     - Each of us should look at our own privileges and power as it relates to our identity
       - Privilege and oppression intersect — but they don’t negate one another
       - We need to acknowledge certain privileges are granted to some folks more than others; oppression olympics should not be portrayed in social justice work
