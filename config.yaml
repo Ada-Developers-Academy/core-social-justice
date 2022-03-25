@@ -15,3 +15,7 @@ Standards:
         Type: Lesson
         UID: 15030d30-a6fc-11ec-b909-0242ac120002
         Path: /orientation/allyship.md
+   -
+        Type: Lesson
+        UID: 73936168-ac80-11ec-b909-0242ac120002 
+        Path: /identity-and-intersectionality.md
