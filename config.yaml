@@ -16,6 +16,13 @@ Standards:
         UID: 15030d30-a6fc-11ec-b909-0242ac120002
         Path: /orientation/allyship.md
    -
+    Title: Identity and Intersectionality
+    Description: Identity and Intersectionality Session
+    UID: fe8a9147-c543-45f4-9a15-fbc813369876
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
         Type: Lesson
         UID: 73936168-ac80-11ec-b909-0242ac120002 
         Path: /identity-and-intersectionality.md
